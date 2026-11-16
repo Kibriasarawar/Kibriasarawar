@@ -53,7 +53,6 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Kibriasarawar&theme=tokyonight" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Kibriasarawar&theme=tokyonight" alt="Top languages" />
 </p>
 
